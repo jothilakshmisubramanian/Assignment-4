@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "title":"Avengers",
+      "genre":"Action",
+      "year": "2019",
+      "rating": "8.5"
+    },
+    {
+      "id": 2,
+      "title": "SpiderMan",
+      "genre": "Animation",
+      "year": "2018",
+      "rating": "8.7"
+    },
+    {
+      "id": 3,
+      "title": "Zootopia",
+      "genre": "Adventure",
+      "year": "2008",
+      "rating": "8.0"
+    },
+    {
+      "id": 4,
+      "title": "The Lion King",
+      "genre": "Animation",
+      "year": "2019",
+      "rating": "8.5" 
+    },
+    {
+    "id": 5,
+    "title": "The Shawshank Redemption",
+    "genre": "Drama",
+    "year": "1994",
+    "rating": "9.3"
+  },
+  {
+    "id": 6,
+    "title": "Titanic",
+    "genre": "Drama",
+    "year": "1997",
+    "rating": "7.9"
+  }
+  ]
